@@ -1,0 +1,31 @@
+_repo: The-Religion-of-Politics--13-A-Sermon-Delivered-Before-His-Excellency-John-Davis-Governor-His__31490
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gannett, Ezra S. (Ezra Stiles)
+    alias: Gannett, Ezra Stiles
+    birthdate: 1801
+    deathdate: 1871
+    gutenberg_agent_id: '35269'
+    url: http://www.gutenberg.org/2009/agents/35269
+    wikipedia: http://en.wikipedia.org/wiki/Ezra_Stiles_Gannett
+description: ''
+gutenberg_issued: '2010-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31490'
+  lccn: '40019183'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Election sermons -- Massachusetts'
+title: "The Religion of Politics\r\nA Sermon Delivered Before His Excellency John\
+  \ Davis, Governor, His Honor George Hull, Lieutenant Governor, The Honorable Council,\
+  \ And The Legislature Of Massachusetts, At The Annual Election, January 5, 1842."
+url: http://www.gutenberg.org/ebooks/31490
